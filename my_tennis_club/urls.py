@@ -24,3 +24,4 @@ urlpatterns = [
     path('', include('my_tennis_club.members.urls')),
     path('admin/', admin.site.urls),
 ]
+
